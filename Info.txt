@@ -1,0 +1,8 @@
+# started a new MERN based project - ChatApp
+
+1. Set up front end using 
+
+- npm create vite@latest
+- npm install
+- npm install react-router-dom        
+- npm install tailwindcss @tailwindcss/vite                                                               
