@@ -1,9 +1,14 @@
 import React from 'react'
 
-const Sidebar = () => {
+const Sidebar = ({selectedUser, setSelecteduser}) => {
   return (
     <div>
-        <h1>Sidebar</h1>
+        <div className='pb-5'>
+          <div className=''>
+
+          </div>
+
+        </div>
     </div>
   )
 }
